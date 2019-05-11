@@ -27,6 +27,8 @@ library(extrafont)
 library(scales)
 library(lubridate)
 library(reshape2)
+#this is a test
+
 
 #
 # Open files and downloads
